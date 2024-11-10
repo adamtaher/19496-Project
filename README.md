@@ -1,5 +1,10 @@
 # 19496-Project
 
+
+MY name is Adam Taher 4th year EEE.
+My project is data fusion of Lidar and hyperspectral data using MUNet library.
+
+
 python main.py --fix_random --seed=10 --epoch=50 --dataset="muffle" --batch_size=128 --learning_rate_en=3e-4 --learning_rate_de=1e-4 --lamda=3e-2 --delta=1 --weight_decay=1e-5
 ```
     
